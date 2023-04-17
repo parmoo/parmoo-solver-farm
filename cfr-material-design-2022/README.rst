@@ -14,9 +14,9 @@ To reduce dependencies, the original ``sklearn`` model has been ported into
 basic ``python`` and ``sklearn`` is not a dependency for this project.
 
 These scripts correspond to the results described in Section 5 of
-Chang and Wild (2023)
-*Designing a Framework for Solving Multiobjective Simulation Optimization
-Problems, in preparation.*
+*Chang and Wild (2023)
+Designing a Framework for Solving Multiobjective Simulation Optimization
+Problems, under review.*
 Further details on the problem are also available in that paper.
 
 Setup and Installation
@@ -114,7 +114,7 @@ To cite this work, use the following:
         title   = {Designing a Framework for Solving Multiobjective Simulation Optimization Problems},
         author  = {Chang, Tyler H. and Wild, Stefan M.},
         year    = {2023},
-        note    = {In preparation}
+        note    = {Under review, preprint: \url{https://arxiv.org/abs/2304.06881}}
     }
 
 If you use our pre-trained CFR product/byproduct models, consider also citing

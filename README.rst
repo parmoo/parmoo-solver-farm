@@ -78,7 +78,7 @@ Otherwise, to cite the ParMOO library, use one of the following:
     }
 
 
-.. _CONTRIBUTING: https://github.com/parmoo/parmoo/blob/main/CONTRIBUTING.rst
+.. _CONTRIBUTING: https://github.com/parmoo/parmoo-solver-farm/blob/main/CONTRIBUTING.rst
 .. _GitHub: https://github.com/parmoo/parmoo
-.. _LICENSE: https://github.com/parmoo/parmoo/blob/main/LICENSE
+.. _LICENSE: https://github.com/parmoo/parmoo-solver-farm/blob/main/LICENSE
 .. _ReadTheDocs: https://parmoo.readthedocs.org
