@@ -16,7 +16,7 @@ basic ``python`` and ``sklearn`` is not a dependency for this project.
 These scripts correspond to the results described in Section 5 of
 *Chang and Wild (2023)
 Designing a Framework for Solving Multiobjective Simulation Optimization
-Problems, under review.*
+Problems, Preprint ArXiv:2304.06881.*
 Further details on the problem are also available in that paper.
 
 Setup and Installation
