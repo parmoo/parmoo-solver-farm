@@ -18,7 +18,7 @@ of this model.
 These scripts correspond to the results described in Section 4 of
 *Chang and Wild (2023)
 Designing a Framework for Solving Multiobjective Simulation Optimization
-Problems, under review.*
+Problems, Preprint ArXiv:2304.06881.*
 Further details on the problem are also available in that paper.
 
 Setup and Installation
@@ -126,7 +126,7 @@ To cite this work, use the following:
         title   = {Designing a Framework for Solving Multiobjective Simulation Optimization Problems},
         author  = {Chang, Tyler H. and Wild, Stefan M.},
         year    = {2023},
-        note    = {Under review, preprint \url{https://arxiv.org/abs/2304.06881}}
+        note    = {Preprint \url{https://arxiv.org/abs/2304.06881}}
     }
 
 If you use our pre-trained Fayans EDF residual model, consider also citing
