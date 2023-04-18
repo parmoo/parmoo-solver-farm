@@ -114,7 +114,7 @@ To cite this work, use the following:
         title   = {Designing a Framework for Solving Multiobjective Simulation Optimization Problems},
         author  = {Chang, Tyler H. and Wild, Stefan M.},
         year    = {2023},
-        note    = {Under review, preprint: \url{https://arxiv.org/abs/2304.06881}}
+        note    = {Preprint: \url{https://arxiv.org/abs/2304.06881}}
     }
 
 If you use our pre-trained CFR product/byproduct models, consider also citing
