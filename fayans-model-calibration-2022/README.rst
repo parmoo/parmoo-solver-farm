@@ -8,17 +8,17 @@ on experimental data.
 
 The significance of the problem and collection of the dataset used to train
 our ``keras`` residual model is fully described in
-Bollapragada et al. (2020)
-*Journal of Physics G: Nuclear and Particle Physics 48(2):024001*.
+*Bollapragada et al. (2020)
+Journal of Physics G: Nuclear and Particle Physics 48(2):024001*.
 For compatibility reasons, the ``keras`` residual model has been converted
 into a ``torch`` model.
 This means that ``pytorch``, not ``tensorflow``, is required for usage
 of this model.
 
 These scripts correspond to the results described in Section 4 of
-Chang and Wild (2023)
-*Designing a Framework for Solving Multiobjective Simulation Optimization
-Problems, in preparation.*
+*Chang and Wild (2023)
+Designing a Framework for Solving Multiobjective Simulation Optimization
+Problems, Preprint ArXiv:2304.06881.*
 Further details on the problem are also available in that paper.
 
 Setup and Installation
@@ -126,7 +126,7 @@ To cite this work, use the following:
         title   = {Designing a Framework for Solving Multiobjective Simulation Optimization Problems},
         author  = {Chang, Tyler H. and Wild, Stefan M.},
         year    = {2023},
-        note    = {In preparation}
+        note    = {Preprint \url{https://arxiv.org/abs/2304.06881}}
     }
 
 If you use our pre-trained Fayans EDF residual model, consider also citing

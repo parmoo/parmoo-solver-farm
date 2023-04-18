@@ -40,11 +40,11 @@ Or contact our e-mail/support
 
  * ``parmoo@mcs.anl.gov``
 
-For potential contributors, please see our CONTRIBUTING_ files.
+For potential contributors to the ParMOO Solver Farm, please see our CONTRIBUTING_ files.
 
 Please check each individual example for its own license files.
 If none is found, then you may assume that each directory carries
-ParMOO's default LICENSE_ file.
+the ParMOO Solver Farm's default LICENSE_ file.
 
 Citing
 ------
@@ -78,7 +78,7 @@ Otherwise, to cite the ParMOO library, use one of the following:
     }
 
 
-.. _CONTRIBUTING: https://github.com/parmoo/parmoo/blob/main/CONTRIBUTING.rst
+.. _CONTRIBUTING: https://github.com/parmoo/parmoo-solver-farm/blob/main/CONTRIBUTING.rst
 .. _GitHub: https://github.com/parmoo/parmoo
-.. _LICENSE: https://github.com/parmoo/parmoo/blob/main/LICENSE
+.. _LICENSE: https://github.com/parmoo/parmoo-solver-farm/blob/main/LICENSE
 .. _ReadTheDocs: https://parmoo.readthedocs.org
