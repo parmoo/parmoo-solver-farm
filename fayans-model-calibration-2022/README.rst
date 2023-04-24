@@ -47,6 +47,16 @@ libEnsemble, and PyTorch are all working together correctly.
 
     python3 parmoo_fayans_test.py --comms local --nworkers 4
 
+Running the above test will dump a CSV file containing ParMOO's final
+database of design parameter and objective values in
+``fayans_test_results.csv`` and will save a ``PNG`` figure containing a
+pairwise scatter plot of the Pareto front in ``Pareto Front.png``, which
+should look similar to
+
+.. image:: Pareto\ Front.png
+  :width: 400
+  :alt: Scatter plot matrix of test case Pareto front
+
 Instructions and Structure
 --------------------------
 

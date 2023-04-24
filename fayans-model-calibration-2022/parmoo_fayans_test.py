@@ -94,3 +94,8 @@ if __name__ == "__main__":
         # Add each data point as another row
         for xs in full_data:
             csv_writer.writerow([xs[name] for name in header])
+
+    # Plot results
+    from parmoo.viz import scatter
+    # Use output="dash" to start an interactive dashboard in browser
+    scatter(fayans_moop, output="png")
