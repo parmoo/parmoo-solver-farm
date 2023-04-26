@@ -1,4 +1,4 @@
-parmoo==0.2.1
+parmoo==0.2.2
 libensemble>=0.9.0
 plotly>=5.9.0
 torch
