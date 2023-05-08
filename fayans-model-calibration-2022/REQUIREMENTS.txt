@@ -1,3 +1,2 @@
 parmoo[extras]==0.2.2
-plotly>=5.9.0
 torch
