@@ -38,7 +38,7 @@ For more information on the ParMOO library
 
 Or contact our e-mail/support
 
- * ``parmoo@mcs.anl.gov``
+ * ``parmoo@lbl.gov``
 
 For potential contributors to the ParMOO Solver Farm, please see our CONTRIBUTING_ files.
 
@@ -72,8 +72,8 @@ Otherwise, to cite the ParMOO library, use one of the following:
         title       = {{ParMOO}: {P}ython library for parallel multiobjective simulation optimization},
         author      = {Chang, Tyler H. and Wild, Stefan M. and Dickinson, Hyrum},
         institution = {Argonne National Laboratory},
-        number      = {Version 0.2.1},
-        year        = {2023},
+        number      = {Version 0.4},
+        year        = {2024},
         url         = {https://parmoo.readthedocs.io/en/latest}
     }
 
