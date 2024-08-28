@@ -38,7 +38,7 @@ For more information on the ParMOO library
 
 Or contact our e-mail/support
 
- * ``parmoo@mcs.anl.gov``
+ * ``parmoo@lbl.gov``
 
 For potential contributors to the ParMOO Solver Farm, please see our CONTRIBUTING_ files.
 
