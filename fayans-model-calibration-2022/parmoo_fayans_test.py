@@ -74,7 +74,7 @@ if __name__ == "__main__":
     # Add a 10th acquisition function, which is the Chi^2 loss
     fayans_moop.addAcquisition({'acquisition': FixedWeights,
                                 'hyperparams': {'weights': np.ones(o) / o}})
-    # Fix the random seed for reproducability
+    # Fix the random seed for reproducibility
     np.random.seed(iseed)
     # Solve the Fayans EDF callibration moop with a 200 sim / 10 min budget
     fayans_moop.solve(sim_max=200, wt_max=600)
