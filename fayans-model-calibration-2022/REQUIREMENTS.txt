@@ -1,2 +1,2 @@
-parmoo[extras]==0.2.2
+parmoo[extras]==0.4.0
 torch
