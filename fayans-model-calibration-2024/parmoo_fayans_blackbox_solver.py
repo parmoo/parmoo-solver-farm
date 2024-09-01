@@ -21,11 +21,11 @@ import sys
 from time import time_ns
 from parmoo.extras.libe import libE_MOOP
 from parmoo.optimizers import LocalSurrogate_BFGS
-from parmoo.surrogates import LocalGaussRBF
+from parmoo.surrogates import GaussRBF
 from parmoo.searches import LatinHypercube
 from parmoo.acquisitions import RandomConstraint, FixedWeights
-from parmoo.objectives import SingleSimObjective
-from parmoo.constraints import SingleSimBound
+from parmoo.objectives import SingleSimObjective, SingleSimGradient
+from parmoo.constraints import SingleSimBound, SingleSimBoundGradient
 import fayans_model as fm
 
 # Set the problem dimensions
@@ -64,7 +64,7 @@ if __name__ == "__main__":
                                'sim_func': fm.fayans_blackbox_model_sim,
                                'hyperparams': {'search_budget': 2000},
                                'search': LatinHypercube,
-                               'surrogate': LocalGaussRBF,
+                               'surrogate': GaussRBF,
                                })
     # Add 3 objectives
     fayans_moop.addObjective({'name': "binding energy",

@@ -62,7 +62,7 @@ if __name__ == "__main__":
     fayans_moop.addSimulation({'name': "residuals",
                                'm': m,
                                'sim_func': fm.fayans_model_sim,
-                               'hyperparams': {'search_budget': 100},
+                               'hyperparams': {'search_budget': 2000},
                                'search': LatinHypercube,
                                'surrogate': GaussRBF,
                                })
