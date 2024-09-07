@@ -19,7 +19,7 @@ directory and ``pip``-install the ``REQUIREMENTS`` file for that example.
 
 .. code-block:: bash
 
-    python3 -m pip install -r REQUIREMENTS
+    python3 -m pip install -r REQUIREMENTS.txt
 
 Instructions and Structure
 --------------------------
