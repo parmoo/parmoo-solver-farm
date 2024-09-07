@@ -53,7 +53,7 @@ database of design parameter and objective values in
 the Pareto front in ``Pareto Front.png``, which
 should look similar to
 
-.. image:: Pareto-Front.png
+.. image:: ../fayans-model-calibration-2022/Pareto-Front.png
   :width: 400
   :alt: Scatter plot matrix of test case Pareto front
 
