@@ -1,2 +1,3 @@
 parmoo[extras]==0.4.1
+libensemble>=1.0.0
 torch
