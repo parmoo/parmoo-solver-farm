@@ -73,10 +73,19 @@ Otherwise, to cite the ParMOO library, use one of the following:
         author      = {Chang, Tyler H. and Wild, Stefan M. and Dickinson, Hyrum},
         institution = {Argonne National Laboratory},
         number      = {Version 0.5.0},
-        year        = {2024},
+        year        = {2026},
         url         = {https://parmoo.readthedocs.io/en/latest}
     }
 
+    @article{ParMOODesign25,
+        title = {Designing a Framework for Solving Multiobjective Simulation Optimization Problems},
+        author = {Tyler H. Chang and Stefan M. Wild},
+        journal = {INFORMS Journal on Computing},
+        year = {2026},
+        doi = {10.1287/ijoc.2023.0250},
+        arxivnumber = {2304.06881},
+        note = {To appear}
+    }
 
 .. _CONTRIBUTING: https://github.com/parmoo/parmoo-solver-farm/blob/main/CONTRIBUTING.rst
 .. _GitHub: https://github.com/parmoo/parmoo
