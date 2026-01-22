@@ -72,7 +72,7 @@ Otherwise, to cite the ParMOO library, use one of the following:
         title       = {{ParMOO}: {P}ython library for parallel multiobjective simulation optimization},
         author      = {Chang, Tyler H. and Wild, Stefan M. and Dickinson, Hyrum},
         institution = {Argonne National Laboratory},
-        number      = {Version 0.5.0},
+        number      = {Version 0.5.1},
         year        = {2026},
         url         = {https://parmoo.readthedocs.io/en/latest}
     }
